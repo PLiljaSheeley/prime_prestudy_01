@@ -1,1 +1,1 @@
-console.log("hey the script file is working")
+console.log("hey this works!")
